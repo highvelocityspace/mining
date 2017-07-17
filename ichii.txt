@@ -5,7 +5,7 @@ proxywallet 0x1cefa1fccfa8f0d9e683022bd1958732f70f369a.Ichii
 proxypool1 eu1-etc.ethermine.org:4444
 proxypool2 us1-etc.ethermine.org:4444
 flags --farm-recheck 200 --cl-local-work 256 --cl-global-work 16384
-globalfan 40
+globalfan 85
 autoreboot true
 lockscreen enabled
 globaldesktop disabled
