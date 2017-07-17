@@ -1,0 +1,11 @@
+globalminer ethminer
+maxgputemp 85
+stratumproxy enabled
+proxywallet 0x1cefa1fccfa8f0d9e683022bd1958732f70f369a.Ichii
+proxypool1 eu1-etc.ethermine.org:4444
+proxypool2 us1-etc.ethermine.org:4444
+flags --farm-recheck 200
+globalpowertune 20
+autoreboot true
+lockscreen enabled
+globaldesktop disabled
