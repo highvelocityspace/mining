@@ -8,4 +8,3 @@ flags --farm-recheck 200 --cl-local-work 256 --cl-global-work 16384
 globalfan 85
 autoreboot true
 lockscreen enabled
-globaldesktop disabled
