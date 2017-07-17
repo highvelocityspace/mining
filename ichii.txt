@@ -9,3 +9,4 @@ globalfan 85
 globalpowertune 5
 autoreboot true
 lockscreen enabled
+globaldesktop disabled
