@@ -6,8 +6,6 @@ proxypool1 eu1.ethermine.org:4444
 proxypool2 us1.ethermine.org:4444
 flags --farm-recheck 200 --cl-global-work 8192
 globalfan 75
-globalmem 2050
-globalcore 1366
 globalpowertune 4
 autoreboot true
 lockscreen enabled
