@@ -1,14 +1,12 @@
 globalminer ethminer
-maxgputemp 85
+maxgputemp 65
 stratumproxy enabled
 proxywallet 0x14e700c9c1ed3e4e039f014c83753eb37f6fd367.Ichii
 proxypool1 eu1.ethermine.org:4444
 proxypool2 us1.ethermine.org:4444
 flags --farm-recheck 200 --cl-local-work 256 --cl-global-work 16384
 globalfan 85
-globalpowertune 5
-globalcore 1200
-globalmem 2200
+globalpowertune 4
 autoreboot true
 lockscreen enabled
 globaldesktop disabled
